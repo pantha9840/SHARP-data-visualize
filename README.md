@@ -26,7 +26,7 @@ from scipy.stats import linregress
 
 series = 'hmi.sharp_cea_720s'
 sharpnum = int(input('Enter SHARP number (e.g. 377): '))
-email = 'pantha9762@gmail.com'
+email = 'abcd@gmail.com'
 segments = ['magnetogram', 'continuum']
 kwlist = ['T_REC', 'LON_FWT', 'OBS_VR', 'CROTA2',
           'CRPIX1', 'CRPIX2', 'CDELT1', 'CDELT2', 'CRVAL1', 'CRVAL2']
